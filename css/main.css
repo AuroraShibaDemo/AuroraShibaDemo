@@ -612,6 +612,9 @@ header a {
     width: 100%;
     padding: 0 15px;
   }
+  .wrapper{
+    -webkit-backdrop-filter: blur(10px);
+  }
   .header {
   background: url('../img/header-bg2.svg') no-repeat center top / cover;
 }
