@@ -435,7 +435,7 @@ header a {
   justify-content: flex-end;
 }
 .wrapper1 .row section{
-  background: #EFDBD5;
+  background: #fff;
   width: calc(50% - 40px);
   padding: 20px;
   position: relative;
@@ -450,7 +450,7 @@ header a {
 .row section .icon,
 .center-line .scroll-icon{
   position: absolute;
-  background: #fdd498;
+  background: #fff;
   height: 40px;
   width: 40px;
   text-align: center;
